@@ -4,25 +4,13 @@
 
 A group project for the "Programmerare iPhone och Android" course.
 
-Participants:
+**Participants:**
 - Vitaliy Beletskiy (coding)
 - Subhi Hokan (design and its implementation)
 
-AppStore link: the app was removed from the App Store as there is no real business behind this app.
-
+**AppStore link:** the app was removed from the App Store as there is no real business behind this app.
 
 **BookTheCut** is a client-part booking application which **helps you to book your visit to a beauty salon or a barbershop.**
-<p float="left">
-  <img src="pics/BookTheCut_01.png" alt="pic"/>
-  <img src="pics/BookTheCut_02.png" alt="pic"/>
-  <img src="pics/BookTheCut_03.png" alt="pic"/>
-  <img src="pics/BookTheCut_04.png" alt="pic"/>
-</p>
-<p float="left">
-  <img src="pics/BookTheCut_05.png" alt="pic"/>
-  <img src="pics/BookTheCut_06.png" alt="pic"/>
-  <img src="pics/BookTheCut_07.png" alt="pic"/>
-</p>
 
 **The app uses:**
 - Firebase Auth (Email and Google providers)
@@ -31,3 +19,14 @@ AppStore link: the app was removed from the App Store as there is no real busine
 - PromiseKit (https://github.com/mxcl/PromiseKit)
 - FSCalendar (https://github.com/WenchaoD/FSCalendar)
 - SideMenu (https://github.com/jonkykong/SideMenu)
+<p float="left">
+  <img src="pics/BookTheCut_01.png" alt="pic"/>
+  <img src="pics/BookTheCut_02.png" alt="pic"/>
+  <img src="pics/BookTheCut_03.png" alt="pic"/>
+  <img src="pics/BookTheCut_04.png" alt="pic"/>
+  <img src="pics/BookTheCut_05.png" alt="pic"/>
+  <img src="pics/BookTheCut_06.png" alt="pic"/>
+  <img src="pics/BookTheCut_07.png" alt="pic"/>
+</p>
+
+
