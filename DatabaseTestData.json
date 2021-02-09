@@ -1,0 +1,58 @@
+{
+  "Hairdressers" : {
+    "-MJs62_XtHq3tGHdy1gs" : {
+      "name" : "Edward",
+      "salonId" : "-MJl26RKUM5oTnUWImSL"
+    },
+    "-MJs6YP-bRoHz7N3fIPO" : {
+      "name" : "Anna",
+      "salonId" : "-MJl2UwS5cJwC9Ff_U8u"
+    },
+    "-MJs6wlC5wHfiEG2it5J" : {
+      "name" : "Eric",
+      "salonId" : "-MJl2UwS5cJwC9Ff_U8u"
+    },
+    "-MKZGoaMb-mqk6bdRYFl" : {
+      "name" : "Kim",
+      "salonId" : "-MJl2UwS5cJwC9Ff_U8u"
+    }
+  },
+  "Salons" : {
+    "-MJl26RKUM5oTnUWImSL" : {
+      "address" : "Anckargripsgatan 3 211 19 MalmÃ¶ Sweden",
+      "latitude" : 55.6117125,
+      "longitude" : 12.99429,
+      "name" : "Ed's Barbershop",
+      "services" : {
+        "-MK6Kl82WkUIiEfPkwVg" : true,
+        "-MK6LBlA7BnTnwoKPUMq" : true
+      }
+    },
+    "-MJl2UwS5cJwC9Ff_U8u" : {
+      "address" : "MastgrÃ¤nd 23 211 77 MalmÃ¶ Sweden",
+      "latitude" : 55.613039,
+      "longitude" : 12.978907,
+      "name" : "Persona",
+      "services" : {
+        "-MK6Kl82WkUIiEfPkwVg" : true,
+        "-MK6KweMMuC7YSImGO3D" : true,
+        "-MK6L2vBVwSVXi5U72NM" : true
+      }
+    }
+  },
+  "Services" : {
+    "-MK6Kl82WkUIiEfPkwVg" : {
+      "name" : "men's haircut"
+    },
+    "-MK6KweMMuC7YSImGO3D" : {
+      "name" : "women's haircut"
+    },
+    "-MK6L2vBVwSVXi5U72NM" : {
+      "name" : "children's haircut"
+    },
+    "-MK6LBlA7BnTnwoKPUMq" : {
+      "name" : "Barber"
+    }
+  }
+}
+

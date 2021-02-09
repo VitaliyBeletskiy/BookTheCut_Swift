@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "greg-trowman-jsuWg7IXx1k-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "greg-trowman-jsuWg7IXx1k-unsplash-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "greg-trowman-jsuWg7IXx1k-unsplash-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
