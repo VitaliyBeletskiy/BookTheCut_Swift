@@ -15,7 +15,7 @@ A group project for the "Programmerare iPhone och Android" course.
 **The app uses:**
 - Firebase Auth (Email and Google providers)
 - Firebase Database
-- Apple Map
+- Apple Maps
 - PromiseKit (https://github.com/mxcl/PromiseKit)
 - FSCalendar (https://github.com/WenchaoD/FSCalendar)
 - SideMenu (https://github.com/jonkykong/SideMenu)
