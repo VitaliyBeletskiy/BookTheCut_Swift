@@ -8,7 +8,7 @@ A group project for the "Programmerare iPhone och Android" course.
 - Vitaliy Beletskiy (coding)
 - Subhi Hokan (design and its implementation)
 
-**AppStore link:** the app was removed from the App Store as there is no real business behind this app.
+**AppStore link:** I removed the app from the App Store as there is no real business behind it.
 
 **BookTheCut** is a client-part booking application which **helps you to book your visit to a beauty salon or a barbershop.**
 
